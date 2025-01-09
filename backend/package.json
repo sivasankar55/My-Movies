@@ -1,14 +1,14 @@
 {
+  
   "name": "my-movies",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
-  "engines": {
-    "node": ">=20.0.0"
-  },
+  
   "scripts": {
-    "start": "node index.js"
-  },
+  "start": "node index.js"
+},
+  
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -26,4 +26,3 @@
     "nodemon": "^3.1.7"
   }
 }
-
