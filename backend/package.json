@@ -1,5 +1,8 @@
 {
-  
+  "engines": {
+  "node": "20.15.0"
+},
+
   "name": "my-movies",
   "version": "1.0.0",
   "main": "index.js",
