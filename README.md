@@ -1,3 +1,5 @@
+
+
 The Scalable Movie App is a modern, full-stack application engineered to deliver a streamlined movie exploration and management experience. Designed with scalability, modularity, and performance optimization in mind.
 
 
